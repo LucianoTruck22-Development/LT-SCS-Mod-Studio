@@ -40,6 +40,14 @@ Desarrollada con tecnología nativa ultrarrápida (Tauri v2 + Rust), combina un 
 
 ---
 
+## Screenshot
+
+<p align="center">
+  <img src="imagen.png">
+</p>
+
+---
+
 ## 📥 Descarga e Instalación
 
 1. Dirígete a la sección de **[Últimos Lanzamientos (Releases)](https://github.com/LucianoTruck22-Development/lt-scs-mod-studio/releases/latest)**.
